@@ -1,5 +1,7 @@
 from MedicineOperation import *
 from Company import *
+
+print("welcome to my project.")
 medicine=input("Enter your medicine name :")
 medicine=medicine.lower()
 
